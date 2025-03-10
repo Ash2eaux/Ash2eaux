@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ash2eaux
-- 👀 I’m interested in Informatic/Money
-- 🌱 I’m currently learning Primary class (16 years lol)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me idk :(
+- 👋 Hi, I'm Ashwin Rajavel
+- 👀 I’m interested in Informatic and I'm mainly interested in cybersecurity and pentesting
+- 🌱 I’m currently learning at BTS SIO (SLAM option)
+- 💞️ I’m looking to collaborate any informatic programs.
+- 📫 Reach me by Linkedin ; https://www.linkedin.com/in/ashwin-rajavel-2812a6304/
 
 <!---
 Ash2eaux/Ash2eaux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
