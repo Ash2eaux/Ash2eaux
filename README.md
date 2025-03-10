@@ -2,7 +2,7 @@
 - 👀 I’m interested in Informatic and I'm mainly interested in cybersecurity and pentesting
 - 🌱 I’m currently learning at BTS SIO (SLAM option)
 - 💞️ I’m looking to collaborate any informatic programs.
-- 📫 Reach me by Linkedin ; https://www.linkedin.com/in/ashwin-rajavel-2812a6304/
+- 📫 Reach me by Linkedin;
 
 <!---
 Ash2eaux/Ash2eaux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
